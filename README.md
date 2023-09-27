@@ -1,6 +1,6 @@
 # Password Checker
 
-Python script to check if you passwords has been leaked or not.
+Python script to check if you passwords has been leaked or not securely without sending your password over the internet completely.
 To check if your passwords are safe or not run the script as following.
 
 This script makes use of API from **_haveibeenpwned.com_**[https://haveibeenpwned.com]
